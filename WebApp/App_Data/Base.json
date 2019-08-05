@@ -1,0 +1,20 @@
+﻿[
+  {
+    "id": 1,
+    "nome": "Dione",
+    "sobreNome": "Maciel",
+    "ra": 123
+  },
+  {
+    "id": 2,
+    "nome": "Keziah",
+    "sobreNome": "Maciel",
+    "ra": 456
+  },
+  {
+    "id": 3,
+    "nome": "Otáveio",
+    "sobreNome": "Maciel",
+    "ra": 789
+  }
+]
